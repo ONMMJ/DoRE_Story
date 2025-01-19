@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: ee2a85088ff18004196ef4acd4eec95e
+labels:
+- panels
+- ui
+- gui
+- slicedsprites
+- componentelements
+- icons
+- typography
+- buttons
+- tags
+- labels
+- sliders
+- toggle
+- switch
+- scrollbar
+- input
+- chart
+- scrollview
+- multidevice
+- fundamentaluiasset
+- sliceshapes
+- colorschemes
+- pixelperfect
+- fontstyle
+- uitools
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

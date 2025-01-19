@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f68d0bd1c6e4b2a46afe3987a4008f7c
+labels:
+- slicedsprites
+- panels
+- icons
+- buttons
+- tags
+- labels
+- sliders
+- toggle
+- switch
+- scrollbar
+- input
+- chart
+- scrollview
+- sliced
+- iconography
+- cornerpanel
+- circle
+- retina
+- bubble
+- pixelperfect
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

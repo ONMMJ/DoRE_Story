@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a85a3ab029f4d534fad6468f0aafc320
+  - enabled: 1
+    path: Assets/Scenes/MapScene/sigol.unity
+    guid: 21fff7f65d7828d4ab722b812e62fe04
+  - enabled: 1
+    path: Assets/Scenes/MapScene/mart.unity
+    guid: 21a89676168265e468a4fb63cea84b11
+  - enabled: 1
+    path: Assets/Scenes/MapScene/home.unity
+    guid: 69591b84f3868a84eaab1411cf147ef9
+  - enabled: 1
+    path: Assets/Scenes/MapScene/convenience2.unity
+    guid: 8ad8fd57392a0e8469d51ddd5faa9bdf
+  - enabled: 1
+    path: Assets/Scenes/MapScene/convenience.unity
+    guid: 9d3a376c002dd664cbf9753adcdd9838
+  - enabled: 1
+    path: Assets/Scenes/MapScene/bossmap.unity
+    guid: a8c05aecfc0f8614fbe984899afad1f6
+  - enabled: 1
+    path: Assets/Scenes/MapScene/greenhouse.unity
+    guid: 4fe948019668662418dd96b3b305f46f
+  - enabled: 1
+    path: Assets/Scenes/MapScene/story.unity
+    guid: 1c234d497d9ae2e4a831f23fc71fbdd0
+  m_configObjects: {}
